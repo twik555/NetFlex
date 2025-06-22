@@ -1,0 +1,14 @@
+/* Netflix Clone Styles */
+.App {
+    background-color: #000;
+    min-height: 100vh;
+}
+
+/* Custom button hover effects */
+.netflix-button {
+    transition: all 0.3s ease;
+}
+
+.netflix-button:hover {
+    transform: scale(1.05);
+}
